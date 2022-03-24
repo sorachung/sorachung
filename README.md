@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hello! I am So Ra Chung, a former retail worker turned into software developer in training. I'm currently attending [Nashville Software School](https://nashvillesoftwareschool.com/), a very cool coding bootcamp, where I am enrolled in the web development program, specifically for full stack, where we learn HTML, CSS, JS, and React.JS in the front end and C#, .NET and ASP.NET MVC in the back end. Most of my public repos are work from this program. Feel free to look around!
+Hello! I am So Ra Chung, a former retail worker turned into software developer in training. My software development journey begin with making pet pages in Neopets back in its heyday. My path in life was complicated, but I have come back to embrace my joy in programming by attending [Nashville Software School](https://nashvillesoftwareschool.com/), a very cool coding bootcamp, where I am enrolled in the web development program, specifically for full stack, where we learn HTML, CSS, JS, and React.JS in the front end and C#, .NET and ASP.NET MVC in the back end. Most of my public repos are work from this program. Feel free to look around!
